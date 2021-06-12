@@ -9,4 +9,3 @@ https://exodus-solar.ga
 ## Autores
 
 Time da Exodus
-
