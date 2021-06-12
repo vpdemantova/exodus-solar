@@ -1,9 +1,8 @@
 # Protótipo - Algoritimo de Analise de Placas Solares (Exodus)
 
 # Acesse o stie aqui:
-<a href="https://exodus-solar.ga" target="_blank">Exodus-Solar</a>
-    
-Imagem do projeto:
+https://exodus-solar.ga
+ 
 
 <img src="https://cdn.discordapp.com/attachments/852360702072061954/853249565020913664/unknown.png" alt="prototipo" width="80%">
 
