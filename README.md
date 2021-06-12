@@ -1,6 +1,6 @@
 # Protótipo - Algoritimo de Analise de Placas Solares
 
-## Acesse o stie aqui:
+## Acesse o site aqui:
 https://exodus-solar.ga
  
 
